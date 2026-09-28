@@ -1,0 +1,6 @@
+{
+  "name": "Notify",
+  "description": "A sleek Spotify-inspired music player for local storage music and online streaming with persistent mini-player, playlists, and equalizer visualizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
